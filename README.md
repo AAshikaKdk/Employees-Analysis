@@ -9,7 +9,7 @@ We have always heard about gender disparity at workplace so I wanted to see how 
 - Tableau to visualize the findings.
 
 
-Desired Insights:
+**Desired Insights:**
 
 1. What is the distribution of male and female employees in terms of gender representation within the workforce?
 2. How does average annual income vary by gender over time in different departments?
@@ -17,5 +17,6 @@ Desired Insights:
 4. What is the average salary for males and females in various departments?
 
 
+**Visualization in Tableau:**
 
-
+[Employees.pptx](https://github.com/AAshikaKdk/Employees-Analysis/files/11790112/Employees.pptx)
