@@ -16,8 +16,6 @@ Desired Insights:
 3. What is the gender distribution among managers in terms of representation?
 4. What is the average salary for males and females in various departments?
 
-Dataset:
-
 
 
 
